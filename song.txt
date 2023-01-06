@@ -4,4 +4,7 @@ third line
 fourth line
 fifth line
 six line
-
+hg
+kj
+lj
+amend after commit
